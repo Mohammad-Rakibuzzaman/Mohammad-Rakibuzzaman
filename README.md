@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammad-rakibuzzaman" alt="mohammad-rakibuzzaman" /></a> </p>
 
-- 🔭 I’m currently working on **E-Softhub**
+- 🔭 I’m currently working on **COMPETITIVE PROGRAMMING and Creative AI**
 
-- 🌱 I’m currently learning **Web Development || Machine Learning || Data Engineering**
+- 🌱 I’m currently learning **Computer Vision**
 
 - 👯 I’m looking to collaborate on [OpenSource](Project)
 
 - 📝 I regularly write articles on [https://medium.com/@roman1117459](https://medium.com/@roman1117459)
 
-- 💬 Ask me about **Django, Django Rest Framework, Data Engineering, Machine Learning**
+- 💬 Ask me about **Any open source project or contribution**
 
 - 📫 How to reach me **dev.rakibuzzaman@gmail.com**
 
