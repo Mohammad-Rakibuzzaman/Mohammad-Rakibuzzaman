@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammad-rakibuzzaman" alt="mohammad-rakibuzzaman" /></a> </p>
 
-- 🔭 I’m currently working on **DSA and Python**
+- 🔭 I’m currently working on **Competitive Coding and Freelancing**
 
-- 🌱 I’m currently learning **Django framework**
+- 🌱 I’m currently learning **Django framework and ReactJS**
 
 - 👯 I’m looking to collaborate on [OpenSource](Project)
 
