@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@roman1117459](https://medium.com/@roman1117459)
 
-- 💬 Ask me about **Any open source project or contribution**
+- 💬 Ask me about **Any open source project for contribution**
 
 - 📫 How to reach me **dev.rakibuzzaman@gmail.com**
 
