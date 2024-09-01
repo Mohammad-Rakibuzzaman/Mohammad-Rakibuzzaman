@@ -19,10 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/md-rakibuzzaman-b99975170/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-rakibuzzaman-b99975170/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/13595911/rakib-ratul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/13595911/rakib-ratul" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/mdrakibuzzaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mdrakibuzzaman" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/rakibratul1117459/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rakibratul1117459/" height="30" width="40" /></a>
 <a href="https://medium.com/@roman1117459" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@roman1117459" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/roman1117459" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="roman1117459" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/4AYndTc7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/4AYndTc7" height="30" width="40" /></a>
 </p>
 
