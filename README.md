@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammad-rakibuzzaman" alt="mohammad-rakibuzzaman" /></a> </p>
 
-- 🔭 I’m currently working on **Competitive Coding and Freelancing**
+- 🔭 I’m currently working on **Freelancing**
 
 - 🌱 I’m currently learning **Django framework and ReactJS**
 
@@ -20,7 +20,7 @@
 <a href="https://www.reddit.com/user/CaterpillarSmart4788/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="https://www.reddit.com/user/CaterpillarSmart4788/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13595911/rakib-ratul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/13595911/rakib-ratul" height="30" width="40" /></a>
 <a href="https://medium.com/@roman1117459" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@roman1117459" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-rakibuzzaman-b99975170/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-rakibuzzaman-b99975170/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-rakibuzzaman-b99975170/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-rakibuzzaman-b99975170/" height="30" width="40" /></a>
 <a href="https://x.com/x413a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/x413a" height="30" width="40" /></a>
 <a href="https://discord.gg/uY4qkQTr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/4AYndTc7" height="30" width="40" /></a>
 
