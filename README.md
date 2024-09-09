@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Nothing**
 
-- 🌱 I’m currently learning **Django framework and ReactJS**
+- 🌱 I’m currently learning **Nothing**
 
 - 👯 I’m looking to collaborate on [OpenSource](Project)
 
