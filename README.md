@@ -26,6 +26,5 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammad-rakibuzzaman&show_icons=true&locale=en" alt="mohammad-rakibuzzaman" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-rakibuzzaman&" alt="mohammad-rakibuzzaman" /></p>
