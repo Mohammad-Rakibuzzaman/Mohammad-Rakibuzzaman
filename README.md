@@ -4,7 +4,7 @@
 
 - 👯 I’m looking to collaborate on [OpenSource](Project)
 
-- 📝 I regularly write articles on [https://medium.com/@roman1117459](https://medium.com/@roman1117459)
+- 📝 I regularly write articles on [https://medium.com/@roman1117459](https://medium.com/)
 
 - 💬 Ask me about **Any open source project for contribution**
 
