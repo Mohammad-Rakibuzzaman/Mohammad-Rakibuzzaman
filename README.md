@@ -8,16 +8,14 @@
 
 - 💬 Ask me about **Any open source project for contribution**
 
-- 📫 How to reach me **dev.rakibuzzaman@gmail.com**
+- 📫 How to reach me **roman1117459@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.reddit.com/user/CaterpillarSmart4788/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="https://www.reddit.com/user/CaterpillarSmart4788/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/13595911/rakib-ratul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/13595911/rakib-ratul" height="30" width="40" /></a>
-<a href="https://medium.com/@roman1117459" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@roman1117459" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mohammad-rakib-b99975170/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-rakib-b99975170/" height="30" width="40" /></a>
-<a href="https://x.com/x413a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/x413a" height="30" width="40" /></a>
 <a href="https://discord.gg/uY4qkQTr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/4AYndTc7" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13595911/rakib-ratul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/13595911/rakib-ratul" height="30" width="40" /></a>
+<a href="https://x.com/x413a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/x413a" height="30" width="40" /></a>
+
 
 </p>
 
