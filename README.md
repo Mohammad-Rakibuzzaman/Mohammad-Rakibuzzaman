@@ -1,6 +1,6 @@
-- 🔭 I’m currently working on **Nothing**
+- 🔭 I’m currently working on **AI and Web Development**
 
-- 🌱 I’m currently learning **Nothing**
+- 🌱 I’m currently learning **Generative AI**
 
 - 👯 I’m looking to collaborate on [OpenSource](Project)
 
