@@ -25,4 +25,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-rakibuzzaman&v=2" alt="mohammad-rakibuzzaman" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-rakibuzzaman&" alt="mohammad-rakibuzzaman" /></p>
