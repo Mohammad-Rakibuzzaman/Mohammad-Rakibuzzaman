@@ -1,7 +1,3 @@
-- 🔭 I’m currently working on **AI and Web Development**
-
-- 🌱 I’m currently learning **Generative AI**
-
 - 👯 I’m looking to collaborate on [OpenSource](Project)
 
 - 📝 I regularly write articles on [https://medium.com/@roman1117459](https://medium.com/)
