@@ -1,4 +1,4 @@
-- 👯 I’m looking to collaborate on Unity [OpenSource](Project)
+- 👯 I’m looking to collaborate on **Unity** [OpenSource]
 
 - 💬 Ask me about **Any open source project for contribution**
 
