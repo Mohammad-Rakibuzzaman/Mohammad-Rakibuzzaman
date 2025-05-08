@@ -1,4 +1,4 @@
-- 👯 I’m looking to collaborate on **AI/ML** [OpenSource](Project)
+- 👯 I’m looking to collaborate on [OpenSource](Project)
 
 - 💬 Ask me about **Any open source project for contribution**
 
